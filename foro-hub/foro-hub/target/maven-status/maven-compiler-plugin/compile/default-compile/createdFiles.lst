@@ -1,0 +1,5 @@
+com\foro\hub\ForoHubApplication.class
+com\foro\hub\service\TopicService.class
+com\foro\hub\controller\TopicController.class
+com\foro\hub\model\Topic.class
+com\foro\hub\repository\TopicRepository.class
